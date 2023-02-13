@@ -76,7 +76,7 @@ public class D07_followUsStepDef {
         tabs = new ArrayList<>(Hooks.driver.getWindowHandles());
     }
 
-   /* @Then("user navigate to rss page {string} and opened in new tab")
+    @Then("user navigate to rss page {string} and opened in new tab")
     public void userNavigateToRssPageAndOpenedInNewTab(String expectedRssUrl) throws InterruptedException {
         Thread.sleep(2000);
         //S3.3 - switch from tab 0 to tab 1
@@ -86,7 +86,7 @@ public class D07_followUsStepDef {
 
         //assertion check if actual rss page url equal expected one
         Assert.assertEquals(actualRssUrl, expectedRssUrl, "rss assertion is failed");
-    }*/
+    }
 
     @When("user click on youtube icon")
     public void userClickOnYoutubeIcon() {
