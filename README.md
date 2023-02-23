@@ -6,7 +6,7 @@
 ## Automate E-commerce app website using :
  * Selenium maven 
   > "https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java" . 
- * cucumber for java         
+ * Cucumber for java         
   > "https://mvnrepository.com/artifact/io.cucumber/cucumber-java" . 
  * Cucumber TestNG maven    
   > "https://mvnrepository.com/artifact/io.cucumber/cucumber-testng" . 
