@@ -10,6 +10,8 @@
   > "https://mvnrepository.com/artifact/io.cucumber/cucumber-java" . 
  * Cucumber TestNG maven    
   > "https://mvnrepository.com/artifact/io.cucumber/cucumber-testng" . 
- * WebDriverManager          
+ * Web Driver Manager          
   > "https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.3.2" .
+ * Java Faker          
+  > "https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2" .
  ### Apply pom design pattern in project .
